@@ -10,7 +10,7 @@ Este dataset contiene los indicadores fisicoquímicos y microbiológicos de los 
 
 * **Fuente:** [CONAGUA - Red Nacional de Medición de Calidad del Agua (RENAMECA)](https://www.gob.mx/conagua/articulos/resultados-de-la-red-nacional-de-medicion-de-calidad-del-agua-renameca?idiom=es)
 * **Fecha de descarga:** 02 de abril de 2026
-* **Licencia:** [Datos Abiertos de México](https://datos.gob.mx/libreusomx)
+* **Licencia:** [Datos Abiertos de México](https://www.gob.mx/terminos)
 * **Archivo:** `CONAGUA_Limpio.csv`
 
 | Variable | Descripción |
@@ -44,7 +44,7 @@ Dataset enfocado en los índices de pobreza y la falta de acceso a servicios bá
 
 * **Fuente:** [CONEVAL - Medición Multidimensional de la Pobreza](https://www.datos.gob.mx/dataset/pobreza_mexico)
 * **Fecha de descarga:** 04 de abril de 2026
-* **Licencia:** [Datos Abiertos de México](https://datos.gob.mx/libreusomx)
+* **Licencia:** [Datos Abiertos de México](https://www.gob.mx/terminos)
 * **Archivo:** `pobreza_analisis_agua_limpio.csv`
 
 | Variable | Descripción |
@@ -88,7 +88,7 @@ Datos censales detallados sobre la disponibilidad de agua y drenaje en las vivie
 | `VPH_EXCSA` | Viviendas que disponen de sanitario exclusivo. |
 | `VPH_LETR` | Viviendas que utilizan letrina o pozo ciego. |
 | `VPH_C_SERV` | Viviendas con disposición de todos los servicios básicos. |
-| `VPH_NDEAED` |  |
+| `VPH_NDEAED` | Viviendas particulares habitadas que no tienen energía eléctrica, agua entubada ni drenaje. |
 
 ---
 
@@ -97,7 +97,7 @@ Registro de la incidencia de enfermedades vinculadas a patógenos hídricos dist
 
 * **Fuente:** [Secretaría de Salud - Anuarios de Morbilidad](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
 * **Fecha de descarga:** 03 de abril de 2026
-* **Licencia:** [Datos Abiertos de México](https://datos.gob.mx/libreusomx)
+* **Licencia:** [Datos Abiertos de México](https://www.gob.mx/terminos)
 * **Archivo:** `enfermedades_gi_filtrado.csv`
 
 | Variable | Descripción |
